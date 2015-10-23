@@ -1,0 +1,12 @@
+.btn-naked {
+    background: none;
+    border: none;
+}
+
+.not-favorited, .favorited:hover {
+    color: black;
+}
+
+.not-favorited:hover, .favorited {
+    color: red;
+}
